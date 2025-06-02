@@ -1,0 +1,6 @@
+Patient Name: John Doe
+Age: 45
+Glucose: 220 mg/dL
+Blood Pressure: 150/95 mmHg
+Heart Rate: 85 bpm
+Cholesterol: 250 mg/dL
